@@ -1,4 +1,4 @@
-# Rode Clone
+# Paytm Clone
 
 This project is a clone of Paytm site. Paytm is payment application.Technology used to build this project is HTML and Tailwind CSS. Tailwind is a utility-first CSS framework which has classes like grid, flex, margin etc.
 
