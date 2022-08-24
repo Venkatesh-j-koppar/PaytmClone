@@ -13,6 +13,7 @@ This project is a clone of Paytm site. Paytm is payment application.Technology u
 4. Backgrounds and borders etc.
 
 ## Project Link
+https://paytmcloneresponsive.netlify.app/
 
 
 ## Time taken to complete the project
